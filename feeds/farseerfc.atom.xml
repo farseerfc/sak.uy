@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Sakuya的音樂盒 - farseerfc</title><link href="//localhost:8000/" rel="alternate"></link><link href="//localhost:8000/feeds/farseerfc.atom.xml" rel="self"></link><id>//localhost:8000/</id><updated>2019-02-15T23:00:00+09:00</updated><entry><title>【聽譯】曰くつきの艶書</title><link href="//localhost:8000/iwakutsuki-no-ensho.html" rel="alternate"></link><published>2019-02-15T23:00:00+09:00</published><updated>2019-02-15T23:00:00+09:00</updated><author><name>farseerfc</name></author><id>tag:localhost,2019-02-15:/iwakutsuki-no-ensho.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/6IzfbtfI5Gs"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Sakuya的音樂盒 - farseerfc</title><link href="//sak.uy/" rel="alternate"></link><link href="//sak.uy/feeds/farseerfc.atom.xml" rel="self"></link><id>//sak.uy/</id><updated>2019-02-15T23:00:00+09:00</updated><entry><title>【聽譯】曰くつきの艶書</title><link href="//sak.uy/iwakutsuki-no-ensho.html" rel="alternate"></link><published>2019-02-15T23:00:00+09:00</published><updated>2019-02-15T23:00:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2019-02-15:/iwakutsuki-no-ensho.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/6IzfbtfI5Gs"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -21,7 +21,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -46,7 +46,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -71,7 +71,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -88,7 +88,7 @@
 &lt;td&gt;要在這兒生活的話　只要遵守規則&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;難しくないよ　不安はあるけど&lt;/td&gt;
-&lt;td&gt;一點也不難呀　雖然會有不安 …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/6IzfbtfI5Gs"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+&lt;td&gt;一點也不難呀　雖然會有不安 …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/6IzfbtfI5Gs"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -110,7 +110,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -135,7 +135,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -160,7 +160,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -182,7 +182,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -207,7 +207,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -232,7 +232,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -248,7 +248,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -270,7 +270,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -308,7 +308,7 @@
 中的《阿礼の子供》。&lt;/p&gt;
 &lt;p&gt;歌詞中講述的故事來自ZUN起草春河もえ作畫的漫畫《東方鈴奈庵》的第十六・十七話。&lt;/p&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -330,7 +330,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -355,7 +355,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -380,7 +380,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -402,7 +402,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -427,7 +427,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -452,7 +452,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -468,7 +468,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -490,7 +490,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -516,12 +516,12 @@
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
 &lt;div class="figure"&gt;
-&lt;img alt="博麗靈夢 (Pixiv 70666458)" class="img-responsive" src="//localhost:8000/images/70666458_p0.jpg"/&gt;
+&lt;img alt="博麗靈夢 (Pixiv 70666458)" class="img-responsive" src="//sak.uy/images/70666458_p0.jpg"/&gt;
 &lt;p class="caption"&gt;&lt;a class="reference external" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=70666458"&gt;博麗靈夢 (Pixiv 70666458)&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;hr class="docutils"/&gt;
 &lt;div class="figure"&gt;
-&lt;img alt="博麗靈夢（旧作） (Pixiv 32920520)" class="img-responsive" src="//localhost:8000/images/32920520_p0.jpg"/&gt;
+&lt;img alt="博麗靈夢（旧作） (Pixiv 32920520)" class="img-responsive" src="//sak.uy/images/32920520_p0.jpg"/&gt;
 &lt;p class="caption"&gt;&lt;a class="reference external" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=32920520"&gt;博麗靈夢（旧作） (Pixiv 32920520)&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;hr class="docutils"/&gt;
@@ -530,7 +530,7 @@
 &lt;/td&gt;&lt;td&gt;
 &lt;img class="img-responsive" onmouseout="this.src='/images/59688700_p0_master1200.jpg';" onmouseover="this.src='/images/59688700_p'+~~(Math.random()*15+1)+'_master1200.jpg';" src="/images/59688700_p0_master1200.jpg"/&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;a class="reference external" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=54967865"&gt;靈夢立ち絵 表情差分 (Pixiv 54967865)&lt;/a&gt; 　 &lt;a class="reference external" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=59688700"&gt;バトルっぽい靈夢立ち絵 表情差分 (Pixiv 59688700)&lt;/a&gt;&lt;/p&gt;
-</content><category term="translate"></category><category term="chouyaku"></category><category term="iwakutsuki-no-ensho"></category><category term="聽譯"></category><category term="曰くつき"></category><category term="艶書"></category><category term="博麗霊夢"></category></entry><entry><title>【聽譯】からくれなゐの影</title><link href="//localhost:8000/karakurenawi-no-kage.html" rel="alternate"></link><published>2019-02-05T14:20:00+09:00</published><updated>2019-02-05T14:20:00+09:00</updated><author><name>farseerfc</name></author><id>tag:localhost,2019-02-05:/karakurenawi-no-kage.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/JAMklwx_ZzM"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+</content><category term="translate"></category><category term="chouyaku"></category><category term="iwakutsuki-no-ensho"></category><category term="聽譯"></category><category term="曰くつき"></category><category term="艶書"></category><category term="博麗霊夢"></category></entry><entry><title>【聽譯】からくれなゐの影</title><link href="//sak.uy/karakurenawi-no-kage.html" rel="alternate"></link><published>2019-02-05T14:20:00+09:00</published><updated>2019-02-05T14:20:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2019-02-05:/karakurenawi-no-kage.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/JAMklwx_ZzM"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -552,7 +552,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -574,7 +574,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -590,7 +590,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -612,7 +612,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -628,7 +628,7 @@
 &lt;tr&gt;&lt;td&gt;掲ぐは何符　謳うは何符&lt;/td&gt;
 &lt;td&gt;揭起的是什麼符　詠唱的是什麼符&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;数えれば …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/JAMklwx_ZzM"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+&lt;tr&gt;&lt;td&gt;数えれば …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/JAMklwx_ZzM"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -650,7 +650,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -672,7 +672,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -688,7 +688,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -710,7 +710,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -738,7 +738,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -760,7 +760,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -782,7 +782,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -804,7 +804,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -820,7 +820,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -842,7 +842,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -870,7 +870,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -892,7 +892,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -914,7 +914,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -933,7 +933,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -955,7 +955,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -977,7 +977,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1019,7 +1019,7 @@
 作爲巫女很不同尋常，因爲神社的名字一般是供奉的神靈的名字。結合一設中隱約提到過的
 先代巫女，二設中歷代巫女都有博麗的姓，以及神主ＺＵＮ主筆的《儚月抄》中射命丸文
 &lt;a class="reference external" href="http://onnel.game-ss.com/Entry/63/"&gt;提到過的&lt;/a&gt; ：&lt;/p&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1047,11 +1047,11 @@
 &lt;p&gt;時值民國１０８年平成３１年舊曆新年，以一首紅紅火火的歌，獻上對所有人鬼妖魔神怪獸靈的祝福和懷念。&lt;/p&gt;
 &lt;hr class="docutils"/&gt;
 &lt;div class="figure"&gt;
-&lt;img alt="happy new year ! (Pixiv 72415177)" class="img-responsive" src="//localhost:8000/images/72415177_p0.png"/&gt;
+&lt;img alt="happy new year ! (Pixiv 72415177)" class="img-responsive" src="//sak.uy/images/72415177_p0.png"/&gt;
 &lt;p class="caption"&gt;&lt;a class="reference external" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=72415177"&gt;happy new year ! (Pixiv 72415177)&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1069,7 +1069,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1093,7 +1093,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1107,7 +1107,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1128,7 +1128,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1150,7 +1150,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1168,7 +1168,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1186,7 +1186,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1206,7 +1206,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1225,7 +1225,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1245,7 +1245,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1267,7 +1267,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1285,7 +1285,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1304,7 +1304,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1322,7 +1322,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1340,7 +1340,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1358,7 +1358,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1377,27 +1377,27 @@
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
 &lt;div class="figure"&gt;
-&lt;img alt="自由回廊 (Pixiv 71671791)" class="img-responsive" src="//localhost:8000/images/71671791_p0.png"/&gt;
+&lt;img alt="自由回廊 (Pixiv 71671791)" class="img-responsive" src="//sak.uy/images/71671791_p0.png"/&gt;
 &lt;p class="caption"&gt;&lt;a class="reference external" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=71671791"&gt;自由回廊 (Pixiv 71671791)&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;hr class="docutils"/&gt;
 &lt;div class="figure"&gt;
-&lt;img alt="幻想鄉見聞錄 (Pixiv 50981359)" class="img-responsive" src="//localhost:8000/images/50981359_p0.jpg"/&gt;
+&lt;img alt="幻想鄉見聞錄 (Pixiv 50981359)" class="img-responsive" src="//sak.uy/images/50981359_p0.jpg"/&gt;
 &lt;p class="caption"&gt;&lt;a class="reference external" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=50981359"&gt;幻想鄉見聞錄 (Pixiv 50981359)&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;hr class="docutils"/&gt;
 &lt;div class="figure"&gt;
-&lt;img alt="ひとりの轮舞 (Pixiv 50078986)" class="img-responsive" src="//localhost:8000/images/50078986_p0.jpg"/&gt;
+&lt;img alt="ひとりの轮舞 (Pixiv 50078986)" class="img-responsive" src="//sak.uy/images/50078986_p0.jpg"/&gt;
 &lt;p class="caption"&gt;&lt;a class="reference external" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=50078986"&gt;ひとりの轮舞 (Pixiv 50078986)&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;hr class="docutils"/&gt;
 &lt;div class="figure"&gt;
-&lt;img alt="sakura (Pixiv 72764504)" class="img-responsive" src="//localhost:8000/images/72764504_p0.png"/&gt;
+&lt;img alt="sakura (Pixiv 72764504)" class="img-responsive" src="//sak.uy/images/72764504_p0.png"/&gt;
 &lt;p class="caption"&gt;&lt;a class="reference external" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=72764504"&gt;sakura (Pixiv 72764504)&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;hr class="docutils"/&gt;
 &lt;img class="img-responsive" onmouseout="this.src='/images/67127825_p1_master1200.jpg';" onmouseover="this.src='/images/67127825_p0_master1200.jpg';" src="/images/67127825_p1_master1200.jpg"/&gt;&lt;p&gt;&lt;a class="reference external" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=67127825"&gt;幻想の花霞 (Pixiv 67127825)&lt;/a&gt;&lt;/p&gt;
-</content><category term="translate"></category><category term="chouyaku"></category><category term="karakurenawi-no-kage"></category><category term="聽譯"></category><category term="からくれなゐ"></category><category term="影"></category><category term="博麗霊夢"></category><category term="巫女"></category></entry><entry><title>【聽譯】Opposite World</title><link href="//localhost:8000/opposite-world.html" rel="alternate"></link><published>2019-01-28T00:31:00+09:00</published><updated>2019-01-28T00:31:00+09:00</updated><author><name>farseerfc</name></author><id>tag:localhost,2019-01-28:/opposite-world.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/Ei3ve3_jEog"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+</content><category term="translate"></category><category term="chouyaku"></category><category term="karakurenawi-no-kage"></category><category term="聽譯"></category><category term="からくれなゐ"></category><category term="影"></category><category term="博麗霊夢"></category><category term="巫女"></category></entry><entry><title>【聽譯】Opposite World</title><link href="//sak.uy/opposite-world.html" rel="alternate"></link><published>2019-01-28T00:31:00+09:00</published><updated>2019-01-28T00:31:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2019-01-28:/opposite-world.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/Ei3ve3_jEog"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1419,7 +1419,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1438,7 +1438,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1457,7 +1457,7 @@
 &lt;tr&gt;&lt;td&gt;この血液は　覚えているのか&lt;/td&gt;
 &lt;td&gt;這血液中　還可曾記得&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;争いの「タネ …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/Ei3ve3_jEog"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+&lt;tr&gt;&lt;td&gt;争いの「タネ …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/Ei3ve3_jEog"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1479,7 +1479,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1498,7 +1498,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1523,7 +1523,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1554,7 +1554,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1579,7 +1579,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1621,7 +1621,7 @@
 只有紅魔館還位於幻想鄉湖畔。&lt;/p&gt;
 &lt;p&gt;關於《 &lt;ruby&gt;&lt;rb&gt;亡&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;な&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; き &lt;ruby&gt;&lt;rb&gt;王女&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;おうじょ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; の &lt;ruby&gt;&lt;rb&gt;為&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ため&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; のセプテット》這個曲名，
 翻譯的話是《爲已逝公主譜寫的七重奏》，對此神主 ZUN 的描述也很有意思：&lt;/p&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1680,7 +1680,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;p&gt;如果把陽光比作商業軟件環境，把斯卡蕾特一族紅魔館的人比作開源社區的貢獻者們，
 說到如大小姐一般事無鉅細親歷親爲，只爲給自己留下一個足以棲身的淨土，這樣的人你能想到誰呢？&lt;/p&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1698,7 +1698,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1714,7 +1714,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1734,7 +1734,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1758,7 +1758,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1778,7 +1778,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1799,30 +1799,30 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
 &lt;div class="figure"&gt;
-&lt;img alt="レミリア・スカーレット" class="img-responsive" src="//localhost:8000/images/23924073_p0.jpg"/&gt;
+&lt;img alt="レミリア・スカーレット" class="img-responsive" src="//sak.uy/images/23924073_p0.jpg"/&gt;
 &lt;p class="caption"&gt;&lt;a class="reference external" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=23924073"&gt;レミリア・スカーレット (Pixiv 23924073)&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;hr class="docutils"/&gt;
 &lt;div class="figure"&gt;
-&lt;img alt="孤獨軼事" class="img-responsive" src="//localhost:8000/images/68882541_p0.jpg"/&gt;
+&lt;img alt="孤獨軼事" class="img-responsive" src="//sak.uy/images/68882541_p0.jpg"/&gt;
 &lt;p class="caption"&gt;&lt;a class="reference external" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=68882541"&gt;孤獨軼事 (Pixiv 68882541)&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;hr class="docutils"/&gt;
 &lt;div class="figure"&gt;
-&lt;img alt="レミリア・スカーレット" class="img-responsive" src="//localhost:8000/images/68911666_p0.jpg"/&gt;
+&lt;img alt="レミリア・スカーレット" class="img-responsive" src="//sak.uy/images/68911666_p0.jpg"/&gt;
 &lt;p class="caption"&gt;&lt;a class="reference external" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=68911666"&gt;レミリア・スカーレット (Pixiv 68911666)&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;hr class="docutils"/&gt;
 &lt;div class="figure"&gt;
-&lt;img alt="厚塗りレミリア" class="img-responsive" src="//localhost:8000/images/65434403_p0.jpg"/&gt;
+&lt;img alt="厚塗りレミリア" class="img-responsive" src="//sak.uy/images/65434403_p0.jpg"/&gt;
 &lt;p class="caption"&gt;&lt;a class="reference external" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=65434403"&gt;厚塗りレミリア (Pixiv 65434403)&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;hr class="docutils"/&gt;
 &lt;div class="figure"&gt;
-&lt;img alt="レミリア" class="img-responsive" src="//localhost:8000/images/72778673_p0.jpg"/&gt;
+&lt;img alt="レミリア" class="img-responsive" src="//sak.uy/images/72778673_p0.jpg"/&gt;
 &lt;p class="caption"&gt;&lt;a class="reference external" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=72778673"&gt;レミリア (Pixiv 72778673)&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</content><category term="translate"></category><category term="chouyaku"></category><category term="opposite-world"></category><category term="聽譯"></category><category term="亡き王女の為のセプテット"></category><category term="蕾米利亞"></category><category term="レミリア・スカーレット"></category></entry><entry><title>【聽譯】華鳥風月</title><link href="//localhost:8000/kachoufuugetsu.html" rel="alternate"></link><published>2019-01-14T02:38:00+09:00</published><updated>2019-01-14T02:38:00+09:00</updated><author><name>farseerfc</name></author><id>tag:localhost,2019-01-14:/kachoufuugetsu.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/q8Hknob-BCE"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+</content><category term="translate"></category><category term="chouyaku"></category><category term="opposite-world"></category><category term="聽譯"></category><category term="亡き王女の為のセプテット"></category><category term="蕾米利亞"></category><category term="レミリア・スカーレット"></category></entry><entry><title>【聽譯】華鳥風月</title><link href="//sak.uy/kachoufuugetsu.html" rel="alternate"></link><published>2019-01-14T02:38:00+09:00</published><updated>2019-01-14T02:38:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2019-01-14:/kachoufuugetsu.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/q8Hknob-BCE"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1844,7 +1844,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1866,7 +1866,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1883,7 +1883,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;td&gt;所謂的歷史　也就是不變的感情&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;廻り廻って　傷つけて和解された&lt;/td&gt;
-&lt;td&gt;峯迴路轉　相互中傷又和解 …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/q8Hknob-BCE"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+&lt;td&gt;峯迴路轉　相互中傷又和解 …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/q8Hknob-BCE"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1905,7 +1905,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1927,7 +1927,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1952,7 +1952,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1974,7 +1974,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1999,7 +1999,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2024,7 +2024,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2051,11 +2051,11 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;hr class="docutils"/&gt;
 &lt;p&gt;《花鳥風月》，算是比較著名的東方改編曲了，因爲作爲《幻想万華鏡》的片頭片尾曲，
 配上了動畫的片段，算是對整個東方正作故事中描繪事物的總結。
-就像我第一篇翻譯的歌詞 &lt;a class="reference external" href="//localhost:8000/warabeasobi.html"&gt;《童遊》&lt;/a&gt;
+就像我第一篇翻譯的歌詞 &lt;a class="reference external" href="//sak.uy/warabeasobi.html"&gt;《童遊》&lt;/a&gt;
 因爲是對神主ZUN自己的主題曲《童祭》的重新譜詞而有了總起的性質，
 這篇《花鳥風月》也因爲用在《幻想万華鏡》而有了總結的性質。&lt;/p&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2073,7 +2073,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2091,7 +2091,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2111,7 +2111,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2129,7 +2129,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2149,7 +2149,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2169,7 +2169,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2190,10 +2190,10 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
 &lt;div class="figure"&gt;
-&lt;img alt="巡って廻って" class="img-responsive" src="//localhost:8000/images/72616493_p0.png"/&gt;
+&lt;img alt="巡って廻って" class="img-responsive" src="//sak.uy/images/72616493_p0.png"/&gt;
 &lt;p class="caption"&gt;&lt;a class="reference external" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=72616493"&gt;巡って廻って (Pixiv 72616493)&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</content><category term="translate"></category><category term="chouyaku"></category><category term="kachoufuugetsu"></category><category term="聽譯"></category><category term="華鳥風月"></category></entry><entry><title>【聽譯】酔花</title><link href="//localhost:8000/suika.html" rel="alternate"></link><published>2019-01-13T03:48:00+09:00</published><updated>2019-01-13T03:48:00+09:00</updated><author><name>farseerfc</name></author><id>tag:localhost,2019-01-13:/suika.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/huew_yKCltw"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+</content><category term="translate"></category><category term="chouyaku"></category><category term="kachoufuugetsu"></category><category term="聽譯"></category><category term="華鳥風月"></category></entry><entry><title>【聽譯】酔花</title><link href="//sak.uy/suika.html" rel="alternate"></link><published>2019-01-13T03:48:00+09:00</published><updated>2019-01-13T03:48:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2019-01-13:/suika.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/huew_yKCltw"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2215,7 +2215,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2234,7 +2234,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2253,7 +2253,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2269,7 +2269,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2282,7 +2282,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;tr&gt;&lt;td&gt;欠片は何処へ還るだろう？&lt;/td&gt;
 &lt;td&gt;碎片該歸還於何處呢？&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;天翔けるその煌きは　語ることなく …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/huew_yKCltw"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+&lt;tr&gt;&lt;td&gt;天翔けるその煌きは　語ることなく …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/huew_yKCltw"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2304,7 +2304,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2323,7 +2323,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2342,7 +2342,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2358,7 +2358,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2377,7 +2377,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2396,7 +2396,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2415,7 +2415,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2436,9 +2436,9 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;hr class="docutils"/&gt;
 &lt;p&gt;又是一首以 &lt;a class="reference external" href="https://thwiki.cc/%E7%A2%8E%E6%9C%88"&gt;《砕月》&lt;/a&gt;
 爲曲調填詞寫的歌呢，算上之前翻譯過的
-&lt;a class="reference external" href="//localhost:8000/ukiyomichi.html"&gt;《愛き夜道》&lt;/a&gt;　和
-&lt;a class="reference external" href="//localhost:8000/tsukimizakura.html"&gt;《月見桜》&lt;/a&gt;
-這已經是 &lt;a class="reference external" href="//localhost:8000/tag/saigetsu.html"&gt;第三首&lt;/a&gt; 了，看來我真的很喜歡《砕月》的曲調呢。
+&lt;a class="reference external" href="//sak.uy/ukiyomichi.html"&gt;《愛き夜道》&lt;/a&gt;　和
+&lt;a class="reference external" href="//sak.uy/tsukimizakura.html"&gt;《月見桜》&lt;/a&gt;
+這已經是 &lt;a class="reference external" href="//sak.uy/tag/saigetsu.html"&gt;第三首&lt;/a&gt; 了，看來我真的很喜歡《砕月》的曲調呢。
 聽過之前這兩首的人大概會感覺出來，雖然三首歌有共同的曲調，卻有不同的曲風，
 大多東方同人的音樂都是如此，因爲原曲都是神主ZUN的遊戲配樂，沒有歌詞，
 於是同人創作者根據各自的理解重新演繹成不同的二次創作。
@@ -2453,7 +2453,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 而非現代更常用的訓讀漢字，看來作者是想模仿中古時代那段時期的日語風格。
 這古風翻譯起來也更困難，於是照例，標假名的同時給出字詞解釋。&lt;/p&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2479,7 +2479,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2495,7 +2495,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2512,7 +2512,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2530,7 +2530,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2548,7 +2548,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2565,7 +2565,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2585,7 +2585,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2601,7 +2601,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content><category term="translate"></category><category term="chouyaku"></category><category term="suika"></category><category term="saigetsu"></category><category term="聽譯"></category><category term="酔花"></category><category term="砕月"></category></entry><entry><title>【聽譯】咲夜 〜親不孝な人間のお話〜</title><link href="//localhost:8000/sakuya-oyafukou-na-ningen-no-ohanashi.html" rel="alternate"></link><published>2019-01-08T05:14:00+09:00</published><updated>2019-01-08T05:14:00+09:00</updated><author><name>farseerfc</name></author><id>tag:localhost,2019-01-08:/sakuya-oyafukou-na-ningen-no-ohanashi.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/83BqU8jze-4"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+</content><category term="translate"></category><category term="chouyaku"></category><category term="suika"></category><category term="saigetsu"></category><category term="聽譯"></category><category term="酔花"></category><category term="砕月"></category></entry><entry><title>【聽譯】咲夜 〜親不孝な人間のお話〜</title><link href="//sak.uy/sakuya-oyafukou-na-ningen-no-ohanashi.html" rel="alternate"></link><published>2019-01-08T05:14:00+09:00</published><updated>2019-01-08T05:14:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2019-01-08:/sakuya-oyafukou-na-ningen-no-ohanashi.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/83BqU8jze-4"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2623,7 +2623,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2645,7 +2645,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2673,7 +2673,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;tr&gt;&lt;td&gt;天に輝く明星　お願い&lt;/td&gt;
 &lt;td&gt;天上最亮的金星　求你了&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;時の針を早く回して …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/83BqU8jze-4"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+&lt;tr&gt;&lt;td&gt;時の針を早く回して …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/83BqU8jze-4"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2695,7 +2695,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2717,7 +2717,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2751,7 +2751,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2785,7 +2785,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2819,7 +2819,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2841,7 +2841,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2899,7 +2899,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2925,7 +2925,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;p&gt;這首歌名「咲夜　〜親不孝な人間のお話〜」，翻譯一下的話就是
 「咲夜　〜不孝的人類的故事〜」，是從紅魔館大小姐蕾米莉亞的角度，
 講述關於咲夜的壽命論的故事。&lt;/p&gt;
-&lt;p&gt;關於壽命論，之前翻譯 &lt;a class="reference external" href="//localhost:8000/hoshiiroyozora.html"&gt;星色夜空&lt;/a&gt;
+&lt;p&gt;關於壽命論，之前翻譯 &lt;a class="reference external" href="//sak.uy/hoshiiroyozora.html"&gt;星色夜空&lt;/a&gt;
 的時候就提到過一次，那時沒有詳述，這裏就藉此機會稍微講一下。
 東方的正作設定中，幻想鄉居民大部分都是神仙妖精魔女幽魂，這些都沒有壽命的限制，
 在入住幻想鄉之後都能和大家幸福快樂地永遠生活下去，但是除此之外還有普通的人類，
@@ -2947,7 +2947,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;a class="reference external" href="https://www.pixiv.net/novel/show.php?id=8550966"&gt;https://www.pixiv.net/novel/show.php?id=8550966&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;回到歌詞翻譯，這篇沒有什麼難詞，就在右邊順便解釋一下手繪MV的劇情中，歌詞沒有描述到的地方吧。&lt;/p&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2966,7 +2966,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2986,7 +2986,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3015,7 +3015,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3055,7 +3055,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3090,7 +3090,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 （順帶一提永夜抄中永琳見到咲夜的時候非常震驚，原因只有她自己知道。）
 最後大小姐把十字架插入了自己的胸口試圖了卻自己。&lt;/p&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3108,7 +3108,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3150,7 +3150,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3174,7 +3174,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;img class="img-responsive" src="/images/sakuya_oyafukou_2.jpg"/&gt;
 &lt;/td&gt;&lt;td&gt;
 &lt;img class="img-responsive" src="/images/sakuya_oyafukou_3.jpg"/&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content><category term="translate"></category><category term="chouyaku"></category><category term="sakuya"></category><category term="jyumyouron"></category><category term="oyafukou"></category><category term="ningen"></category><category term="ohanashi"></category><category term="聽譯"></category><category term="咲夜"></category><category term="寿命論"></category><category term="壽命論"></category></entry><entry><title>【聽譯】ミゼラブルの雫</title><link href="//localhost:8000/miserable-no-shizuku.html" rel="alternate"></link><published>2019-01-07T00:24:00+09:00</published><updated>2019-01-07T00:24:00+09:00</updated><author><name>farseerfc</name></author><id>tag:localhost,2019-01-07:/miserable-no-shizuku.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/rZxRgJAa5FM"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content><category term="translate"></category><category term="chouyaku"></category><category term="sakuya"></category><category term="jyumyouron"></category><category term="oyafukou"></category><category term="ningen"></category><category term="ohanashi"></category><category term="聽譯"></category><category term="咲夜"></category><category term="寿命論"></category><category term="壽命論"></category></entry><entry><title>【聽譯】ミゼラブルの雫</title><link href="//sak.uy/miserable-no-shizuku.html" rel="alternate"></link><published>2019-01-07T00:24:00+09:00</published><updated>2019-01-07T00:24:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2019-01-07:/miserable-no-shizuku.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/rZxRgJAa5FM"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3193,7 +3193,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3215,7 +3215,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3249,7 +3249,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3259,7 +3259,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;tr&gt;&lt;td&gt;優しく接してあげたい&lt;/td&gt;
 &lt;td&gt;想能夠溫柔地接觸你&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;だけれど　どうすればいい …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/rZxRgJAa5FM"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+&lt;tr&gt;&lt;td&gt;だけれど　どうすればいい …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/rZxRgJAa5FM"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3278,7 +3278,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3300,7 +3300,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3334,7 +3334,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3356,7 +3356,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3390,7 +3390,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3412,7 +3412,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3445,7 +3445,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;hr class="docutils"/&gt;
 &lt;p&gt;還能不能，讓時間治癒一切呢。&lt;/p&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3461,7 +3461,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3479,7 +3479,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3505,7 +3505,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3523,7 +3523,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3549,7 +3549,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3567,7 +3567,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3590,7 +3590,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content><category term="translate"></category><category term="chouyaku"></category><category term="miserable"></category><category term="shizuku"></category><category term="聽譯"></category><category term="ミゼラブル"></category></entry><entry><title>【聽譯】月見桜</title><link href="//localhost:8000/tsukimizakura.html" rel="alternate"></link><published>2019-01-06T03:24:00+09:00</published><updated>2019-01-06T03:24:00+09:00</updated><author><name>farseerfc</name></author><id>tag:localhost,2019-01-06:/tsukimizakura.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/0vxv0EPztu0"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+</content><category term="translate"></category><category term="chouyaku"></category><category term="miserable"></category><category term="shizuku"></category><category term="聽譯"></category><category term="ミゼラブル"></category></entry><entry><title>【聽譯】月見桜</title><link href="//sak.uy/tsukimizakura.html" rel="alternate"></link><published>2019-01-06T03:24:00+09:00</published><updated>2019-01-06T03:24:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2019-01-06:/tsukimizakura.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/0vxv0EPztu0"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3612,7 +3612,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3634,7 +3634,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3662,7 +3662,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3684,14 +3684,14 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
 &lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;幾千の夜　幾万の星 …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/0vxv0EPztu0"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+&lt;tr&gt;&lt;td&gt;幾千の夜　幾万の星 …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/0vxv0EPztu0"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3713,7 +3713,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3735,7 +3735,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3763,7 +3763,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3785,7 +3785,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3807,7 +3807,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3829,7 +3829,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3857,7 +3857,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3879,7 +3879,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3901,7 +3901,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3923,7 +3923,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3948,7 +3948,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;p&gt;這首其實原本計劃聖誕夜前就開始着手翻譯了，不過事況突變，到今天才發出來。
 又是一首大量使用和語用詞的，非常古風的歌。照例，左側註音，右側釋義。&lt;/p&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3966,7 +3966,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -3988,7 +3988,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4012,7 +4012,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4034,7 +4034,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4052,7 +4052,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4075,7 +4075,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4099,7 +4099,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4119,7 +4119,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4137,7 +4137,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4155,7 +4155,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4172,7 +4172,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content><category term="translate"></category><category term="chouyaku"></category><category term="tsukimizakura"></category><category term="saigetsu"></category><category term="聽譯"></category><category term="月見桜"></category><category term="砕月"></category></entry><entry><title>【聽譯】シンデレラアバター</title><link href="//localhost:8000/cinderella-avatar.html" rel="alternate"></link><published>2019-01-05T04:05:00+09:00</published><updated>2019-01-05T04:05:00+09:00</updated><author><name>farseerfc</name></author><id>tag:localhost,2019-01-05:/cinderella-avatar.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/vQUy6G9X2aY"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+</content><category term="translate"></category><category term="chouyaku"></category><category term="tsukimizakura"></category><category term="saigetsu"></category><category term="聽譯"></category><category term="月見桜"></category><category term="砕月"></category></entry><entry><title>【聽譯】シンデレラアバター</title><link href="//sak.uy/cinderella-avatar.html" rel="alternate"></link><published>2019-01-05T04:05:00+09:00</published><updated>2019-01-05T04:05:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2019-01-05:/cinderella-avatar.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/vQUy6G9X2aY"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4188,7 +4188,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4210,7 +4210,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4232,7 +4232,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4254,7 +4254,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4271,7 +4271,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;td&gt;憑藉仙杜瑞拉的身份讓我爲所欲爲&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;迎えに来てよ　唇が乾かないうちに&lt;/td&gt;
-&lt;td&gt;快來迎接我吧 …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/vQUy6G9X2aY"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+&lt;td&gt;快來迎接我吧 …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/vQUy6G9X2aY"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4287,7 +4287,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4309,7 +4309,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4331,7 +4331,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4353,7 +4353,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4375,7 +4375,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4391,7 +4391,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4413,7 +4413,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4432,7 +4432,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4450,7 +4450,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;ruby&gt;&lt;rb&gt;灰&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;はい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; かぶった &lt;ruby&gt;&lt;rb&gt;少女&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;しょうじょ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; ）相對。&lt;/p&gt;
 &lt;p&gt;照例，左側註音，右側釋意。&lt;/p&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4467,7 +4467,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4487,7 +4487,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4505,7 +4505,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4523,7 +4523,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4541,7 +4541,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4555,7 +4555,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4573,7 +4573,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4589,7 +4589,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4600,7 +4600,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content><category term="translate"></category><category term="chouyaku"></category><category term="cinderella"></category><category term="avatar"></category><category term="聽譯"></category><category term="シンデレラ"></category><category term="アバター"></category></entry><entry><title>【聽譯】残響は鳴り止まず</title><link href="//localhost:8000/zankyohanariyamazu.html" rel="alternate"></link><published>2019-01-03T20:50:00+09:00</published><updated>2019-01-03T20:50:00+09:00</updated><author><name>farseerfc</name></author><id>tag:localhost,2019-01-03:/zankyohanariyamazu.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/VpXXaWXJZuw"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+</content><category term="translate"></category><category term="chouyaku"></category><category term="cinderella"></category><category term="avatar"></category><category term="聽譯"></category><category term="シンデレラ"></category><category term="アバター"></category></entry><entry><title>【聽譯】残響は鳴り止まず</title><link href="//sak.uy/zankyohanariyamazu.html" rel="alternate"></link><published>2019-01-03T20:50:00+09:00</published><updated>2019-01-03T20:50:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2019-01-03:/zankyohanariyamazu.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/VpXXaWXJZuw"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4622,7 +4622,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4647,7 +4647,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4669,7 +4669,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4691,7 +4691,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4713,7 +4713,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4726,7 +4726,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;tr&gt;&lt;td&gt;新たな二人の距離&lt;/td&gt;
 &lt;td&gt;兩人間新的距離&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;何を話せば …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/VpXXaWXJZuw"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+&lt;tr&gt;&lt;td&gt;何を話せば …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/VpXXaWXJZuw"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4748,7 +4748,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4773,7 +4773,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4795,7 +4795,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4817,7 +4817,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4839,7 +4839,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4864,7 +4864,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4886,7 +4886,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4911,7 +4911,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4933,7 +4933,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4958,7 +4958,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -4980,7 +4980,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5002,7 +5002,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5020,7 +5020,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;hr class="docutils"/&gt;
 &lt;p&gt;照例左側註音，右側解釋字詞。&lt;/p&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5042,7 +5042,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5062,7 +5062,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5080,7 +5080,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5098,7 +5098,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5118,7 +5118,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5139,7 +5139,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5157,7 +5157,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5177,7 +5177,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5197,7 +5197,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5217,7 +5217,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5235,7 +5235,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5254,7 +5254,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5267,7 +5267,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content><category term="translate"></category><category term="chouyaku"></category><category term="zankyoha"></category><category term="nariyamazu"></category><category term="聽譯"></category><category term="残響は鳴り止まず"></category></entry><entry><title>【聽譯】夜桜に君を隠して</title><link href="//localhost:8000/yozakuranikimiwokakushite.html" rel="alternate"></link><published>2019-01-03T02:50:00+09:00</published><updated>2019-01-03T02:50:00+09:00</updated><author><name>farseerfc</name></author><id>tag:localhost,2019-01-03:/yozakuranikimiwokakushite.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/SDmr8c72wes"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+</content><category term="translate"></category><category term="chouyaku"></category><category term="zankyoha"></category><category term="nariyamazu"></category><category term="聽譯"></category><category term="残響は鳴り止まず"></category></entry><entry><title>【聽譯】夜桜に君を隠して</title><link href="//sak.uy/yozakuranikimiwokakushite.html" rel="alternate"></link><published>2019-01-03T02:50:00+09:00</published><updated>2019-01-03T02:50:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2019-01-03:/yozakuranikimiwokakushite.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/SDmr8c72wes"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5283,7 +5283,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5305,7 +5305,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5327,7 +5327,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5355,7 +5355,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5377,7 +5377,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5391,7 +5391,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;td&gt;但是清晨遲早會來臨&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;アンニュイに溺れるばかりでは&lt;/td&gt;
-&lt;td&gt;一味沉溺在萎靡中的話 …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/SDmr8c72wes"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+&lt;td&gt;一味沉溺在萎靡中的話 …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/SDmr8c72wes"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5407,7 +5407,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5429,7 +5429,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5451,7 +5451,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5479,7 +5479,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5501,7 +5501,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5523,7 +5523,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5554,7 +5554,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5582,7 +5582,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5600,7 +5600,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;hr class="docutils"/&gt;
 &lt;p&gt;雖然不算很難的日語，還是有個別用詞需要解釋一下。照例左側註音，右側解釋字詞。&lt;/p&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5615,7 +5615,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5634,7 +5634,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5654,7 +5654,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5677,7 +5677,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5697,7 +5697,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5718,7 +5718,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5742,7 +5742,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5766,7 +5766,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5779,7 +5779,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content><category term="translate"></category><category term="chouyaku"></category><category term="yozakurani"></category><category term="kimiwo"></category><category term="kakushite"></category><category term="聽譯"></category><category term="夜桜に君を隠して"></category></entry><entry><title>【聽譯】星色夜空</title><link href="//localhost:8000/hoshiiroyozora.html" rel="alternate"></link><published>2018-12-31T04:06:00+09:00</published><updated>2018-12-31T04:06:00+09:00</updated><author><name>farseerfc</name></author><id>tag:localhost,2018-12-31:/hoshiiroyozora.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/byL0GV6PVdk"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+</content><category term="translate"></category><category term="chouyaku"></category><category term="yozakurani"></category><category term="kimiwo"></category><category term="kakushite"></category><category term="聽譯"></category><category term="夜桜に君を隠して"></category></entry><entry><title>【聽譯】星色夜空</title><link href="//sak.uy/hoshiiroyozora.html" rel="alternate"></link><published>2018-12-31T04:06:00+09:00</published><updated>2018-12-31T04:06:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2018-12-31:/hoshiiroyozora.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/byL0GV6PVdk"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5801,7 +5801,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5823,7 +5823,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5854,7 +5854,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5867,7 +5867,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;tr&gt;&lt;td&gt;その向こうで　君は　何想う&lt;/td&gt;
 &lt;td&gt;那一端的你　在想什麼&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;いつか消える …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/byL0GV6PVdk"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+&lt;tr&gt;&lt;td&gt;いつか消える …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/byL0GV6PVdk"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5889,7 +5889,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5911,7 +5911,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5942,7 +5942,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5964,7 +5964,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -5986,7 +5986,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6020,7 +6020,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6042,7 +6042,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6064,7 +6064,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6086,7 +6086,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6108,7 +6108,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6134,7 +6134,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 只不過翻譯的時候，譯着譯着還在想，歌詞中提到兩人分處兩地的思念，
 會不會不僅僅是遠距離，而是壽命論下的陰陽兩隔呢？&lt;/p&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6152,7 +6152,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6170,7 +6170,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6194,7 +6194,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6212,7 +6212,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6230,7 +6230,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6256,7 +6256,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6274,7 +6274,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6292,7 +6292,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6310,7 +6310,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6328,7 +6328,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6345,7 +6345,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content><category term="translate"></category><category term="chouyaku"></category><category term="hoshiiroyozora"></category><category term="聽譯"></category><category term="星色夜空"></category></entry><entry><title>【聽譯】愛き夜道</title><link href="//localhost:8000/ukiyomichi.html" rel="alternate"></link><published>2018-12-30T06:04:00+09:00</published><updated>2018-12-30T06:04:00+09:00</updated><author><name>farseerfc</name></author><id>tag:localhost,2018-12-30:/ukiyomichi.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/I2adXkpWleg"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+</content><category term="translate"></category><category term="chouyaku"></category><category term="hoshiiroyozora"></category><category term="聽譯"></category><category term="星色夜空"></category></entry><entry><title>【聽譯】愛き夜道</title><link href="//sak.uy/ukiyomichi.html" rel="alternate"></link><published>2018-12-30T06:04:00+09:00</published><updated>2018-12-30T06:04:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2018-12-30:/ukiyomichi.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/I2adXkpWleg"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6370,7 +6370,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6395,7 +6395,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6408,7 +6408,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;tr&gt;&lt;td&gt;｢憂世鬱世｣云々　嘆き節&lt;/td&gt;
 &lt;td&gt;聊起「憂世鬱世」云云　悲嘆處&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;肴に呷る　酒の苦味よ …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/I2adXkpWleg"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+&lt;tr&gt;&lt;td&gt;肴に呷る　酒の苦味よ …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/I2adXkpWleg"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6433,7 +6433,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6458,7 +6458,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6483,7 +6483,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6532,7 +6532,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6554,7 +6554,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6579,7 +6579,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6604,7 +6604,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6632,7 +6632,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6657,7 +6657,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6718,7 +6718,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6743,7 +6743,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6768,7 +6768,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6793,7 +6793,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6818,7 +6818,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6843,7 +6843,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6874,7 +6874,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;p&gt;下面給出標上了假名適合跟唱的版本，順便在右邊配上一些難以翻譯的字詞的解釋。
 這些解釋不屬於字典上的解釋，只是這些字詞在這個上下文中我自己的理解：&lt;/p&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6900,7 +6900,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6922,7 +6922,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6950,7 +6950,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -6999,7 +6999,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7020,7 +7020,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7043,7 +7043,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7072,7 +7072,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7097,7 +7097,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7120,7 +7120,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7174,7 +7174,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7196,7 +7196,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7217,7 +7217,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7238,7 +7238,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7259,7 +7259,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7282,7 +7282,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7306,10 +7306,10 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
 &lt;div class="figure"&gt;
-&lt;img alt="愛き夜道" class="img-responsive" src="//localhost:8000/images/72485849_p0.jpg"/&gt;
+&lt;img alt="愛き夜道" class="img-responsive" src="//sak.uy/images/72485849_p0.jpg"/&gt;
 &lt;p class="caption"&gt;&lt;a class="reference external" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=72485849"&gt;愛き夜道 (Pixiv 72485849)&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</content><category term="translate"></category><category term="chouyaku"></category><category term="ukiyomichi"></category><category term="saigetsu"></category><category term="聽譯"></category><category term="愛き夜道"></category><category term="砕月"></category></entry><entry><title>【聽譯】竹ノ花</title><link href="//localhost:8000/takenohana.html" rel="alternate"></link><published>2018-12-24T00:48:00+09:00</published><updated>2018-12-24T00:48:00+09:00</updated><author><name>farseerfc</name></author><id>tag:localhost,2018-12-24:/takenohana.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/HV5YvpbyS6E"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+</content><category term="translate"></category><category term="chouyaku"></category><category term="ukiyomichi"></category><category term="saigetsu"></category><category term="聽譯"></category><category term="愛き夜道"></category><category term="砕月"></category></entry><entry><title>【聽譯】竹ノ花</title><link href="//sak.uy/takenohana.html" rel="alternate"></link><published>2018-12-24T00:48:00+09:00</published><updated>2018-12-24T00:48:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2018-12-24:/takenohana.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/HV5YvpbyS6E"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7334,7 +7334,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7371,7 +7371,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7393,7 +7393,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;tr&gt;&lt;td&gt;どうか生きてゆけと&lt;/td&gt;
 &lt;td&gt;還請一定要活下去&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;その幸せを願えばと …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/HV5YvpbyS6E"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+&lt;tr&gt;&lt;td&gt;その幸せを願えばと …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/HV5YvpbyS6E"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7418,7 +7418,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7455,7 +7455,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7492,7 +7492,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7535,7 +7535,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7572,7 +7572,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7594,7 +7594,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7634,7 +7634,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7685,7 +7685,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content><category term="translate"></category><category term="chouyaku"></category><category term="takenohana"></category><category term="聽譯"></category><category term="竹ノ花"></category></entry><entry><title>【聽譯】童遊</title><link href="//localhost:8000/warabeasobi.html" rel="alternate"></link><published>2018-12-23T18:24:00+09:00</published><updated>2018-12-23T18:24:00+09:00</updated><author><name>farseerfc</name></author><id>tag:localhost,2018-12-23:/warabeasobi.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/0CbvqJAfCRc"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+</content><category term="translate"></category><category term="chouyaku"></category><category term="takenohana"></category><category term="聽譯"></category><category term="竹ノ花"></category></entry><entry><title>【聽譯】童遊</title><link href="//sak.uy/warabeasobi.html" rel="alternate"></link><published>2018-12-23T18:24:00+09:00</published><updated>2018-12-23T18:24:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2018-12-23:/warabeasobi.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/0CbvqJAfCRc"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7710,7 +7710,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7738,7 +7738,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7763,7 +7763,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7788,7 +7788,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7798,7 +7798,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;tr&gt;&lt;td&gt;華散&lt;/td&gt;
 &lt;td&gt;花落&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;ruby&gt;&lt;rb&gt;口伝伝承 …&lt;/rb&gt;&lt;/ruby&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/0CbvqJAfCRc"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table borderless docutils"&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby&gt;&lt;rb&gt;口伝伝承 …&lt;/rb&gt;&lt;/ruby&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/0CbvqJAfCRc"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7823,7 +7823,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7851,7 +7851,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7876,7 +7876,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7901,7 +7901,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7926,7 +7926,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7954,7 +7954,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -7979,7 +7979,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -8004,7 +8004,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -8029,7 +8029,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -8072,7 +8072,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -8097,7 +8097,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -8122,7 +8122,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -8147,7 +8147,7 @@ Opposite World 這首歌，和主人一樣，歌詞內容也比較隱晦，大�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table borderless docutils"&gt;
+&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;

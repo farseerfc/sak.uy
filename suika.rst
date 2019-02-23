@@ -1,13 +1,12 @@
-【聽譯】酔花
+酔花
 ===========================================
 
 :id: suika
 :translation_id: suika
 :lang: zh
 :date: 2019-01-13 03:48
-:tags: translate, chouyaku, suika, saigetsu, 聽譯, 酔花, 砕月
+:tags: suika, saigetsu, 酔花, 砕月
 :issueid: 76
-:series: chouyaku
 
 .. youtube:: huew_yKCltw
 

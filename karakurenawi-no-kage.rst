@@ -1,11 +1,11 @@
-【聽譯】からくれなゐの影
+からくれなゐの影
 ===========================================
 
 :id: karakurenawi-no-kage
 :translation_id: karakurenawi-no-kage
 :lang: zh
 :date: 2019-02-05 14:20
-:tags: translate, chouyaku, karakurenawi-no-kage, 聽譯, からくれなゐ, 影, 博麗霊夢, 巫女
+:tags: karakurenawi-no-kage, からくれなゐ, 影, 博麗霊夢, 巫女
 :issueid: 79
 :series: chouyaku
 

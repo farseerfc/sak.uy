@@ -1,11 +1,11 @@
-【聽譯】Opposite World
+Opposite World
 ===========================================
 
 :id: opposite-world
 :translation_id: opposite-world
 :lang: zh
 :date: 2019-01-28 00:31
-:tags: translate, chouyaku, opposite-world, 聽譯, 亡き王女の為のセプテット, 蕾米利亞, レミリア・スカーレット
+:tags: opposite-world, 亡き王女の為のセプテット, 蕾米利亞, レミリア・スカーレット
 :issueid: 78
 :series: chouyaku
 

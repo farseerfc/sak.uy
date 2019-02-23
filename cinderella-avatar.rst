@@ -1,13 +1,12 @@
-【聽譯】シンデレラアバター
+シンデレラアバター
 ===========================================
 
 :id: cinderella-avatar
 :translation_id: cinderella-avatar
 :lang: zh
 :date: 2019-01-05 04:05
-:tags: translate, chouyaku, cinderella, avatar, 聽譯, シンデレラ, アバター
+:tags: cinderella, avatar, シンデレラ, アバター
 :issueid: 72
-:series: chouyaku
 
 
 .. youtube:: vQUy6G9X2aY

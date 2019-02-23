@@ -1,11 +1,11 @@
-【聽譯】ミゼラブルの雫
+ミゼラブルの雫
 ===========================================
 
 :id: miserable-no-shizuku
 :translation_id: miserable-no-shizuku
 :lang: zh
 :date: 2019-01-07 00:24
-:tags: translate, chouyaku, miserable, shizuku, 聽譯, ミゼラブル
+:tags: miserable, shizuku, ミゼラブル
 :issueid: 74
 :series: chouyaku
 

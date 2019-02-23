@@ -1,13 +1,12 @@
-【聽譯】華鳥風月
+華鳥風月
 ===========================================
 
 :id: kachoufuugetsu
 :translation_id: kachoufuugetsu
 :lang: zh
 :date: 2019-01-14 02:38
-:tags: translate, chouyaku, kachoufuugetsu, 聽譯, 華鳥風月
+:tags: kachoufuugetsu, 華鳥風月
 :issueid: 77
-:series: chouyaku
 
 
 .. youtube:: q8Hknob-BCE

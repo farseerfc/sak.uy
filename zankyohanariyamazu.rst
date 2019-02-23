@@ -1,13 +1,12 @@
-【聽譯】残響は鳴り止まず
+残響は鳴り止まず
 ===========================================
 
 :id: zankyohanariyamazu
 :translation_id: zankyohanariyamazu
 :lang: zh
 :date: 2019-01-03 20:50
-:tags: translate, chouyaku, zankyoha, nariyamazu, 聽譯, 残響は鳴り止まず
+:tags: zankyoha, nariyamazu, 残響は鳴り止まず
 :issueid: 71
-:series: chouyaku
 
 .. youtube:: VpXXaWXJZuw
 

@@ -1,13 +1,12 @@
-【聽譯】曰くつきの艶書
+曰くつきの艶書
 ===========================================
 
 :id: iwakutsuki-no-ensho
 :translation_id: iwakutsuki-no-ensho
 :lang: zh
 :date: 2019-02-15 23:00
-:tags: translate, chouyaku, iwakutsuki-no-ensho, 聽譯, 曰くつき, 艶書, 博麗霊夢
+:tags: iwakutsuki-no-ensho, 曰くつき, 艶書, 博麗霊夢
 :issueid: 81
-:series: chouyaku
 
 .. youtube:: 6IzfbtfI5Gs
 

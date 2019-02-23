@@ -1,13 +1,12 @@
-【聽譯】星色夜空
+星色夜空
 ===========================================
 
 :id: hoshiiroyozora
 :translation_id: hoshiiroyozora
 :lang: zh
 :date: 2018-12-31 04:06
-:tags: translate, chouyaku, hoshiiroyozora, 聽譯, 星色夜空
+:tags: hoshiiroyozora, 星色夜空
 :issueid: 69
-:series: chouyaku
 
 
 .. youtube:: byL0GV6PVdk

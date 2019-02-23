@@ -1,13 +1,12 @@
-【聽譯】童遊
+童遊
 ===========================================
 
 :id: warabeasobi
 :translation_id: warabeasobi
 :lang: zh
 :date: 2018-12-23 18:24
-:tags: translate, chouyaku, warabe, asobi, 聽譯, 童遊
+:tags: warabe, asobi, 童遊
 :issueid: 65
-:series: chouyaku
 
 .. youtube:: 0CbvqJAfCRc
 

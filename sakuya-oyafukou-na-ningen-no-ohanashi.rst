@@ -1,13 +1,12 @@
-【聽譯】咲夜　〜親不孝な人間のお話〜
+咲夜　〜親不孝な人間のお話〜
 ===========================================
 
 :id: sakuya-oyafukou-na-ningen-no-ohanashi
 :translation_id: sakuya-oyafukou-na-ningen-no-ohanashi
 :lang: zh
 :date: 2019-01-08 05:14
-:tags: translate, chouyaku, sakuya, jyumyouron, oyafukou, ningen, ohanashi, 聽譯, 咲夜, 寿命論, 壽命論
+:tags: sakuya, jyumyouron, oyafukou, ningen, ohanashi, 咲夜, 寿命論, 壽命論
 :issueid: 75
-:series: chouyaku
 
 
 .. youtube:: 83BqU8jze-4

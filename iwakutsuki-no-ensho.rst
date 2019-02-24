@@ -418,8 +418,6 @@
 
     :pixiv:`70666458|博麗靈夢`
 
-
-
 ----
 
 .. figure:: {static}/images/32920520_p0.jpg

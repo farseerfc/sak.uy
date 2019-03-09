@@ -5,7 +5,7 @@
 :translation_id: ukiyomichi
 :lang: zh
 :date: 2018-12-30 06:04
-:tags: ukiyomichi, saigetsu, 愛き夜道, 砕月
+:tags: ukiyomichi, saigetsu, 愛き夜道, 砕月, たま, ランコ, 雨天決行, 魂音泉
 :issueid: 68
 
 .. youtube:: I2adXkpWleg

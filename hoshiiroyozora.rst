@@ -5,7 +5,7 @@
 :translation_id: hoshiiroyozora
 :lang: zh
 :date: 2018-12-31 04:06
-:tags: hoshiiroyozora, jumyoron, 星色夜空
+:tags: hoshiiroyozora, jumyoron, 星色夜空, 霧雨魔理沙, いえろ～ぜぶら, 藤宮ゆき
 :issueid: 69
 
 

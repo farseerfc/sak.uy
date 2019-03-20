@@ -5,7 +5,7 @@
 :translation_id: kachoufuugetsu
 :lang: zh
 :date: 2019-01-14 02:38
-:tags: kachoufuugetsu, 華鳥風月
+:tags: kachoufuugetsu, 華鳥風月, 幽閉サテライト, senya
 :issueid: 77
 
 

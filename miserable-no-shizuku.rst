@@ -5,7 +5,7 @@
 :translation_id: miserable-no-shizuku
 :lang: zh
 :date: 2019-01-07 00:24
-:tags: miserable, shizuku, ミゼラブル
+:tags: miserable, shizuku, ミゼラブル, 幽閉サテライト, senya
 :issueid: 74
 :series: chouyaku
 

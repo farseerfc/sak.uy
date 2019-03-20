@@ -5,7 +5,7 @@
 :translation_id: iwakutsuki-no-ensho
 :lang: zh
 :date: 2019-02-15 23:00
-:tags: iwakutsuki-no-ensho, 曰くつき, 艶書, 博麗霊夢
+:tags: iwakutsuki-no-ensho, 曰くつき, 艶書, 博麗霊夢, ランコ, 豚乙女
 :issueid: 81
 
 .. youtube:: 6IzfbtfI5Gs

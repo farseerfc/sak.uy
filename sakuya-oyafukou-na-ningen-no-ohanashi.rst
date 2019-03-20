@@ -5,7 +5,7 @@
 :translation_id: sakuya-oyafukou-na-ningen-no-ohanashi
 :lang: zh
 :date: 2019-01-08 05:14
-:tags: sakuya, jyumyouron, oyafukou, ningen, ohanashi, jumyoron, 咲夜, 寿命論, 壽命論, 十六夜咲夜
+:tags: sakuya, jyumyouron, oyafukou, ningen, ohanashi, jumyoron, 咲夜, 寿命論, 壽命論, 十六夜咲夜, こっとん
 :issueid: 75
 
 

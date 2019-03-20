@@ -5,7 +5,7 @@
 :translation_id: takenohana
 :lang: zh
 :date: 2018-12-24 00:48
-:tags: takenohana, 竹ノ花
+:tags: takenohana, 竹ノ花, 凋叶棕
 :issueid: 67
 
 .. youtube:: HV5YvpbyS6E

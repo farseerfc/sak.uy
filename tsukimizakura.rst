@@ -5,7 +5,7 @@
 :translation_id: tsukimizakura
 :lang: zh
 :date: 2019-01-06 03:24
-:tags: tsukimizakura, saigetsu, 月見桜, 砕月
+:tags: tsukimizakura, saigetsu, 月見桜, 砕月, Frontier Records, のりこ
 :issueid: 73
 
 .. youtube:: 0vxv0EPztu0

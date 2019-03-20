@@ -5,7 +5,7 @@
 :translation_id: warabeasobi
 :lang: zh
 :date: 2018-12-23 18:24
-:tags: warabe, asobi, 童遊
+:tags: warabe, asobi, 童遊, 凋叶棕
 :issueid: 65
 
 .. youtube:: 0CbvqJAfCRc

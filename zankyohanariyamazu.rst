@@ -5,7 +5,7 @@
 :translation_id: zankyohanariyamazu
 :lang: zh
 :date: 2019-01-03 20:50
-:tags: zankyoha, nariyamazu, 残響は鳴り止まず
+:tags: zankyoha, nariyamazu, 残響は鳴り止まず, 幽閉サテライト, senya
 :issueid: 71
 
 .. youtube:: VpXXaWXJZuw

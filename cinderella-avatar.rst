@@ -5,7 +5,7 @@
 :translation_id: cinderella-avatar
 :lang: zh
 :date: 2019-01-05 04:05
-:tags: cinderella, avatar, シンデレラ, アバター
+:tags: cinderella, avatar, シンデレラ, アバター, 幽閉サテライト, senya, 洩矢諏訪子
 :issueid: 72
 
 

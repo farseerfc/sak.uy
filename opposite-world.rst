@@ -5,7 +5,7 @@ Opposite World
 :translation_id: opposite-world
 :lang: zh
 :date: 2019-01-28 00:31
-:tags: opposite-world, 亡き王女の為のセプテット, 蕾米利亞, レミリア・スカーレット
+:tags: opposite-world, 亡き王女の為のセプテット, 蕾米利亞, レミリア・スカーレット, 幽閉サテライト, senya
 :issueid: 78
 :series: chouyaku
 

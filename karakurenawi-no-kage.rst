@@ -5,7 +5,7 @@
 :translation_id: karakurenawi-no-kage
 :lang: zh
 :date: 2019-02-05 14:20
-:tags: karakurenawi-no-kage, からくれなゐ, 影, 博麗霊夢, 巫女
+:tags: karakurenawi-no-kage, からくれなゐ, 影, 博麗霊夢, 巫女, 凋叶棕
 :issueid: 79
 :series: chouyaku
 

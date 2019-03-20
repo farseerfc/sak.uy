@@ -5,7 +5,7 @@
 :translation_id: yozakuranikimiwokakushite
 :lang: zh
 :date: 2019-01-03 02:50
-:tags: yozakurani, kimiwo, kakushite, 夜桜に君を隠して
+:tags: yozakurani, kimiwo, kakushite, 夜桜に君を隠して, 幽閉サテライト, senya
 :issueid: 70
 :series: chouyaku
 

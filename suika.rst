@@ -5,7 +5,7 @@
 :translation_id: suika
 :lang: zh
 :date: 2019-01-13 03:48
-:tags: suika, saigetsu, 酔花, 砕月, Riverside, 秣本瑳羅
+:tags: suika, saigetsu, 伊吹萃香, 酔花, 砕月, Riverside, 秣本瑳羅
 :issueid: 76
 
 .. youtube:: huew_yKCltw

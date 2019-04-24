@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>//sak.uy/</loc>
-<lastmod>2019-04-07T16:53:12-00:00</lastmod>
+<lastmod>2019-04-24T19:18:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>//sak.uy/archives.html</loc>
-<lastmod>2019-04-07T16:53:12-00:00</lastmod>
+<lastmod>2019-04-24T19:18:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>//sak.uy/tags.html</loc>
-<lastmod>2019-04-07T16:53:12-00:00</lastmod>
+<lastmod>2019-04-24T19:18:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>//sak.uy/categories.html</loc>
-<lastmod>2019-04-07T16:53:12-00:00</lastmod>
+<lastmod>2019-04-24T19:18:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +34,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>//sak.uy/about.html</loc>
 <lastmod>2019-02-24T16:12:34+09:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>//sak.uy/toriyo.html</loc>
+<lastmod>2019-04-25T00:35:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -187,7 +194,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>//sak.uy/category/songs.html</loc>
-<lastmod>2019-04-07T13:30:00+09:19</lastmod>
+<lastmod>2019-04-25T00:35:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -230,6 +237,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>//sak.uy/tag/gu-ming-di-koishi.html</loc>
 <lastmod>2019-03-18T02:21:00+09:19</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>//sak.uy/tag/toriyo.html</loc>
+<lastmod>2019-04-25T00:35:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -284,15 +298,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>//sak.uy/tag/hun-yin-quan.html</loc>
-<lastmod>2019-03-09T00:59:00+09:19</lastmod>
+<loc>//sak.uy/tag/nayuta.html</loc>
+<lastmod>2019-04-25T00:35:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>//sak.uy/tag/kotsuton.html</loc>
-<lastmod>2019-01-08T05:14:00+09:19</lastmod>
+<loc>//sak.uy/tag/hun-yin-quan.html</loc>
+<lastmod>2019-03-09T00:59:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -362,7 +376,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>//sak.uy/tag/diao-xie-zong.html</loc>
-<lastmod>2019-03-21T13:30:00+09:19</lastmod>
+<lastmod>2019-04-25T00:35:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -508,6 +522,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>//sak.uy/tag/rd-sounds.html</loc>
+<lastmod>2019-04-25T00:35:00+09:19</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>//sak.uy/tag/tama.html</loc>
 <lastmod>2019-03-09T00:59:00+09:19</lastmod>
 <changefreq>daily</changefreq>
@@ -522,8 +543,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>//sak.uy/tag/monogatari.html</loc>
-<lastmod>2019-03-09T00:59:00+09:19</lastmod>
+<loc>//sak.uy/tag/hoshiiroyozora.html</loc>
+<lastmod>2018-12-31T04:06:00+09:19</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>//sak.uy/tag/kotsuton.html</loc>
+<lastmod>2019-01-08T05:14:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -781,6 +809,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>//sak.uy/tag/feng-shen-shao-nu.html</loc>
+<lastmod>2019-04-25T00:35:00+09:19</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>//sak.uy/tag/ukiyomichi.html</loc>
 <lastmod>2018-12-30T06:04:00+09:19</lastmod>
 <changefreq>daily</changefreq>
@@ -790,6 +825,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>//sak.uy/tag/sakuya.html</loc>
 <lastmod>2019-01-08T05:14:00+09:19</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>//sak.uy/tag/feng-noxun-huan.html</loc>
+<lastmod>2019-04-25T00:35:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -823,8 +865,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>//sak.uy/tag/hoshiiroyozora.html</loc>
-<lastmod>2018-12-31T04:06:00+09:19</lastmod>
+<loc>//sak.uy/tag/monogatari.html</loc>
+<lastmod>2019-03-09T00:59:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -873,7 +915,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>//sak.uy/author/farseerfc.html</loc>
-<lastmod>2019-04-07T13:30:00+09:19</lastmod>
+<lastmod>2019-04-25T00:35:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

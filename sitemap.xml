@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>//sak.uy/</loc>
-<lastmod>2019-07-18T14:09:57-00:00</lastmod>
+<lastmod>2019-07-18T14:18:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>//sak.uy/archives.html</loc>
-<lastmod>2019-07-18T14:09:57-00:00</lastmod>
+<lastmod>2019-07-18T14:18:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>//sak.uy/tags.html</loc>
-<lastmod>2019-07-18T14:09:57-00:00</lastmod>
+<lastmod>2019-07-18T14:18:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>//sak.uy/categories.html</loc>
-<lastmod>2019-07-18T14:09:57-00:00</lastmod>
+<lastmod>2019-07-18T14:18:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

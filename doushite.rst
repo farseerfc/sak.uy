@@ -8,7 +8,7 @@
 :tags: doushite, why, どうして, 博麗霊夢, 凋叶棕
 :issueid: 83
 
-.. youtube:: 29urq6Yi4L4
+.. youtube:: CcH_7_KUkzs
 
 
 .. translate-paragraph::

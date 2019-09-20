@@ -8,7 +8,7 @@
 :tags: iwakutsuki-no-ensho, 曰くつき, 艶書, 博麗霊夢, ランコ, 豚乙女
 :issueid: 81
 
-.. youtube:: 6IzfbtfI5Gs
+.. youtube:: 3e3vb4Obnsw
 
 .. translate-paragraph::
 

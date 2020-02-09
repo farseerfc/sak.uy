@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Sakuya的音樂盒 - zankyoha</title><link href="//sak.uy/" rel="alternate"></link><link href="//sak.uy/feeds/tag-zankyoha.atom.xml" rel="self"></link><id>//sak.uy/</id><updated>2019-01-03T20:50:00+09:00</updated><entry><title>残響は鳴り止まず</title><link href="//sak.uy/zankyohanariyamazu.html" rel="alternate"></link><published>2019-01-03T20:50:00+09:00</published><updated>2019-01-03T20:50:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2019-01-03:/zankyohanariyamazu.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/VpXXaWXJZuw"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Sakuya的音樂盒 - zankyoha</title><link href="//sak.uy/" rel="alternate"></link><link href="//sak.uy/feeds/tag-zankyoha.atom.xml" rel="self"></link><id>//sak.uy/</id><updated>2019-01-03T20:50:00+09:00</updated><entry><title>残響は鳴り止まず</title><link href="//sak.uy/zankyohanariyamazu.html" rel="alternate"></link><published>2019-01-03T20:50:00+09:00</published><updated>2019-01-03T20:50:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2019-01-03:/zankyohanariyamazu.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe allow="fullscreen" class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/VpXXaWXJZuw"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -125,7 +125,7 @@
 &lt;tr&gt;&lt;td&gt;新たな二人の距離&lt;/td&gt;
 &lt;td&gt;兩人間新的距離&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;何を話せば …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/VpXXaWXJZuw"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
+&lt;tr&gt;&lt;td&gt;何を話せば …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe allow="fullscreen" class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/VpXXaWXJZuw"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -666,4 +666,4 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content><category term="zankyoha"></category><category term="nariyamazu"></category><category term="残響は鳴り止まず"></category><category term="幽閉サテライト"></category><category term="senya"></category></entry></feed>
+</content><category term="songs"></category><category term="zankyoha"></category><category term="nariyamazu"></category><category term="残響は鳴り止まず"></category><category term="幽閉サテライト"></category><category term="senya"></category></entry></feed>

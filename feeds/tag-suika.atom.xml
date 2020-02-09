@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Sakuya的音樂盒 - suika</title><link href="//sak.uy/" rel="alternate"></link><link href="//sak.uy/feeds/tag-suika.atom.xml" rel="self"></link><id>//sak.uy/</id><updated>2019-01-13T03:48:00+09:00</updated><entry><title>酔花</title><link href="//sak.uy/suika.html" rel="alternate"></link><published>2019-01-13T03:48:00+09:00</published><updated>2019-01-13T03:48:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2019-01-13:/suika.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/huew_yKCltw"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Sakuya的音樂盒 - suika</title><link href="//sak.uy/" rel="alternate"></link><link href="//sak.uy/feeds/tag-suika.atom.xml" rel="self"></link><id>//sak.uy/</id><updated>2019-01-13T03:48:00+09:00</updated><entry><title>酔花</title><link href="//sak.uy/suika.html" rel="alternate"></link><published>2019-01-13T03:48:00+09:00</published><updated>2019-01-13T03:48:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2019-01-13:/suika.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe allow="fullscreen" class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/huew_yKCltw"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -88,7 +88,7 @@
 &lt;tr&gt;&lt;td&gt;欠片は何処へ還るだろう？&lt;/td&gt;
 &lt;td&gt;碎片該歸還於何處呢？&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;天翔けるその煌きは　語ることなく …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/huew_yKCltw"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
+&lt;tr&gt;&lt;td&gt;天翔けるその煌きは　語ることなく …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe allow="fullscreen" class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/huew_yKCltw"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="docutils table borderless"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -407,4 +407,4 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content><category term="suika"></category><category term="saigetsu"></category><category term="伊吹萃香"></category><category term="酔花"></category><category term="砕月"></category><category term="Riverside"></category><category term="秣本瑳羅"></category></entry></feed>
+</content><category term="songs"></category><category term="suika"></category><category term="saigetsu"></category><category term="伊吹萃香"></category><category term="酔花"></category><category term="砕月"></category><category term="Riverside"></category><category term="秣本瑳羅"></category></entry></feed>

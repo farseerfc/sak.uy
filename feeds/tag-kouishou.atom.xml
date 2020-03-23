@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Sakuya的音樂盒 - kouishou</title><link href="//sak.uy/" rel="alternate"></link><link href="//sak.uy/feeds/tag-kouishou.atom.xml" rel="self"></link><id>//sak.uy/</id><updated>2019-03-18T02:21:00+09:00</updated><entry><title>ささやく、消えかけた後遺症が</title><link href="//sak.uy/sasayaku-kiekaketa-kouishouga.html" rel="alternate"></link><published>2019-03-18T02:21:00+09:00</published><updated>2019-03-18T02:21:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2019-03-18:/sasayaku-kiekaketa-kouishouga.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe allow="fullscreen" class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/u5R6GfMyx98"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -16,7 +16,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -38,7 +38,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -57,7 +57,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -79,7 +79,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -87,7 +87,7 @@
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;カタチがないと分かった …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe allow="fullscreen" class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/u5R6GfMyx98"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -103,7 +103,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -125,7 +125,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -144,7 +144,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -166,7 +166,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -188,7 +188,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -207,7 +207,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -229,7 +229,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -245,7 +245,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -300,7 +300,7 @@
 」的歌而言，「&lt;a class="reference external" href="//sak.uy/tag/you-bi-sateraito.html"&gt;幽閉サテライト&lt;/a&gt;」社團 &lt;a class="reference external" href="//sak.uy/tag/senya.html"&gt;senya&lt;/a&gt;
 主唱的這幾首歌都非常輕易近人，沒有很難的詞很生僻的字。於是就只給出標註假名，修正了一部分漢字表記的版本吧。&lt;/p&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -314,7 +314,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -332,7 +332,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -348,7 +348,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -366,7 +366,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -384,7 +384,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -400,7 +400,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -418,7 +418,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -432,7 +432,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Sakuya的音樂盒 - ランコ</title><link href="//sak.uy/" rel="alternate"></link><link href="//sak.uy/feeds/tag-ranko.atom.xml" rel="self"></link><id>//sak.uy/</id><updated>2019-03-21T13:30:00+09:00</updated><entry><title>嘘と慟哭</title><link href="//sak.uy/usoto-doukoku.html" rel="alternate"></link><published>2019-03-21T13:30:00+09:00</published><updated>2019-03-21T13:30:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2019-03-21:/usoto-doukoku.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe allow="fullscreen" class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/_wz-Y8DA3qs"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -22,7 +22,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -53,7 +53,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -75,7 +75,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -97,7 +97,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -114,7 +114,7 @@
 &lt;td&gt;互相交換了誓言&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;対する人の望みは …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe allow="fullscreen" class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/_wz-Y8DA3qs"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -136,7 +136,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -167,7 +167,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -189,7 +189,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -211,7 +211,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -239,7 +239,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -267,7 +267,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -292,7 +292,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -314,7 +314,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -401,7 +401,7 @@
 &lt;p&gt;不太確定該不該給這首歌標上 &lt;a class="reference external" href="//sak.uy/tag/shou-ming-lun.html"&gt;壽命論&lt;/a&gt; 的標籤，描述的故事是人鬼殊途，
 然而活下來的是鬼，離開的是人，以及人的角色似乎並不是東方系列裏的角色。&lt;/p&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -424,7 +424,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -455,7 +455,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -475,7 +475,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -495,7 +495,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -517,7 +517,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -539,7 +539,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -564,7 +564,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -584,7 +584,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -633,7 +633,7 @@
 &lt;p class="caption"&gt;&lt;a class="reference external" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=24800105"&gt;鬼は外 (Pixiv 24800105)&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;img class="img-responsive" onmouseout="this.src='/images/24446311_p0_master1200.jpg';" onmouseover="this.src='/images/24446311_p'+~~(Math.random()*3+1)+'_master1200.jpg';" src="/images/24446311_p0_master1200.jpg"/&gt;&lt;p&gt;&lt;a class="reference external" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=24446311"&gt;御伽の国の恋物語 (Pixiv 24446311)&lt;/a&gt;&lt;/p&gt;
-</content><category term="songs"></category><category term="uso"></category><category term="doukoku"></category><category term="凋叶棕"></category><category term="ランコ"></category><category term="伊吹萃香"></category></entry><entry><title>曰くつきの艶書</title><link href="//sak.uy/iwakutsuki-no-ensho.html" rel="alternate"></link><published>2019-02-15T23:00:00+09:00</published><updated>2019-02-15T23:00:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2019-02-15:/iwakutsuki-no-ensho.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe allow="fullscreen" class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/3e3vb4Obnsw"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table docutils borderless"&gt;
+</content><category term="songs"></category><category term="uso"></category><category term="doukoku"></category><category term="凋叶棕"></category><category term="ランコ"></category><category term="伊吹萃香"></category></entry><entry><title>曰くつきの艶書</title><link href="//sak.uy/iwakutsuki-no-ensho.html" rel="alternate"></link><published>2019-02-15T23:00:00+09:00</published><updated>2019-02-15T23:00:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2019-02-15:/iwakutsuki-no-ensho.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe allow="fullscreen" class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/3e3vb4Obnsw"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -655,7 +655,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -680,7 +680,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -705,7 +705,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -722,7 +722,7 @@
 &lt;td&gt;要在這兒生活的話　只要遵守規則&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;難しくないよ　不安はあるけど&lt;/td&gt;
-&lt;td&gt;一點也不難呀　雖然會有不安 …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe allow="fullscreen" class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/3e3vb4Obnsw"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table docutils borderless"&gt;
+&lt;td&gt;一點也不難呀　雖然會有不安 …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe allow="fullscreen" class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/3e3vb4Obnsw"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -744,7 +744,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -769,7 +769,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -794,7 +794,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -816,7 +816,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -841,7 +841,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -866,7 +866,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -882,7 +882,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -904,7 +904,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -942,7 +942,7 @@
 中的《阿礼の子供》。&lt;/p&gt;
 &lt;p&gt;歌詞中講述的故事來自ZUN起草春河もえ作畫的漫畫《東方鈴奈庵》的第十六・十七話。&lt;/p&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -964,7 +964,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -989,7 +989,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1014,7 +1014,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1036,7 +1036,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1061,7 +1061,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1086,7 +1086,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1102,7 +1102,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1124,7 +1124,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1164,7 +1164,7 @@
 &lt;/td&gt;&lt;td&gt;
 &lt;img class="img-responsive" onmouseout="this.src='/images/59688700_p0_master1200.jpg';" onmouseover="this.src='/images/59688700_p'+~~(Math.random()*15+1)+'_master1200.jpg';" src="/images/59688700_p0_master1200.jpg"/&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;a class="reference external" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=54967865"&gt;靈夢立ち絵 表情差分 (Pixiv 54967865)&lt;/a&gt; 　 &lt;a class="reference external" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=59688700"&gt;バトルっぽい靈夢立ち絵 表情差分 (Pixiv 59688700)&lt;/a&gt;&lt;/p&gt;
-</content><category term="songs"></category><category term="iwakutsuki-no-ensho"></category><category term="曰くつき"></category><category term="艶書"></category><category term="博麗霊夢"></category><category term="ランコ"></category><category term="豚乙女"></category></entry><entry><title>愛き夜道</title><link href="//sak.uy/ukiyomichi.html" rel="alternate"></link><published>2018-12-30T06:04:00+09:00</published><updated>2018-12-30T06:04:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2018-12-30:/ukiyomichi.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe allow="fullscreen" class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/I2adXkpWleg"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table docutils borderless"&gt;
+</content><category term="songs"></category><category term="iwakutsuki-no-ensho"></category><category term="曰くつき"></category><category term="艶書"></category><category term="博麗霊夢"></category><category term="ランコ"></category><category term="豚乙女"></category></entry><entry><title>愛き夜道</title><link href="//sak.uy/ukiyomichi.html" rel="alternate"></link><published>2018-12-30T06:04:00+09:00</published><updated>2018-12-30T06:04:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2018-12-30:/ukiyomichi.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe allow="fullscreen" class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/I2adXkpWleg"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1189,7 +1189,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1214,7 +1214,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1227,7 +1227,7 @@
 &lt;tr&gt;&lt;td&gt;｢憂世鬱世｣云々　嘆き節&lt;/td&gt;
 &lt;td&gt;聊起「憂世鬱世」云云　悲嘆處&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;肴に呷る　酒の苦味よ …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe allow="fullscreen" class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/I2adXkpWleg"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="table docutils borderless"&gt;
+&lt;tr&gt;&lt;td&gt;肴に呷る　酒の苦味よ …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe allow="fullscreen" class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/I2adXkpWleg"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1252,7 +1252,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1277,7 +1277,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1302,7 +1302,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1351,7 +1351,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1373,7 +1373,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1398,7 +1398,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1423,7 +1423,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1451,7 +1451,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1476,7 +1476,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1537,7 +1537,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1562,7 +1562,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1587,7 +1587,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1612,7 +1612,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1637,7 +1637,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1662,7 +1662,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1693,7 +1693,7 @@
 &lt;p&gt;下面給出標上了假名適合跟唱的版本，順便在右邊配上一些難以翻譯的字詞的解釋。
 這些解釋不屬於字典上的解釋，只是這些字詞在這個上下文中我自己的理解：&lt;/p&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1719,7 +1719,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1741,7 +1741,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1769,7 +1769,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1818,7 +1818,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1839,7 +1839,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1862,7 +1862,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1891,7 +1891,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1916,7 +1916,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1939,7 +1939,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -1993,7 +1993,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2015,7 +2015,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2036,7 +2036,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2057,7 +2057,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2078,7 +2078,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -2101,7 +2101,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;

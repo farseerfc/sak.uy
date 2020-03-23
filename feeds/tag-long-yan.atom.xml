@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Sakuya的音樂盒 - 朧彦</title><link href="//sak.uy/" rel="alternate"></link><link href="//sak.uy/feeds/tag-long-yan.atom.xml" rel="self"></link><id>//sak.uy/</id><updated>2019-04-07T13:30:00+09:00</updated><entry><title>レゴリスの砂時計</title><link href="//sak.uy/regolith-no-sunadokei.html" rel="alternate"></link><published>2019-04-07T13:30:00+09:00</published><updated>2019-04-07T13:30:00+09:00</updated><author><name>farseerfc</name></author><id>tag:sak.uy,2019-04-07:/regolith-no-sunadokei.html</id><summary type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe allow="fullscreen" class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/liatnoE4-sI"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -22,7 +22,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -44,7 +44,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -72,7 +72,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -94,7 +94,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -108,7 +108,7 @@
 &lt;td&gt;這沙漏&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;明日は止まるでしょう …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;div align="left" class="youtube embed-responsive embed-responsive-16by9"&gt;&lt;iframe allow="fullscreen" class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/liatnoE4-sI"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -130,7 +130,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -152,7 +152,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -180,7 +180,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -202,7 +202,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -224,7 +224,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -252,7 +252,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -302,7 +302,7 @@ YouTube 上的視頻很少，回放數也不高，感覺是埋沒在衆多東方
 關於這個傳說故事 &lt;a class="reference external" href="https://www.youtube.com/watch?v=nbZV2cUcTNY"&gt;Linfamy 也有一個英文描述的手繪視頻 Japanese Folktales: Tale of the Bamboo Cutter (Kaguya-hime is Sailor Moon??)&lt;/a&gt;
 可以參考一下。&lt;/p&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -321,7 +321,7 @@ YouTube 上的視頻很少，回放數也不高，感覺是埋沒在衆多東方
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -339,7 +339,7 @@ YouTube 上的視頻很少，回放數也不高，感覺是埋沒在衆多東方
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -363,7 +363,7 @@ YouTube 上的視頻很少，回放數也不高，感覺是埋沒在衆多東方
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -383,7 +383,7 @@ YouTube 上的視頻很少，回放數也不高，感覺是埋沒在衆多東方
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -401,7 +401,7 @@ YouTube 上的視頻很少，回放數也不高，感覺是埋沒在衆多東方
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;
@@ -424,7 +424,7 @@ YouTube 上的視頻很少，回放數也不高，感覺是埋沒在衆多東方
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils"/&gt;
-&lt;table border="0" class="table docutils borderless"&gt;
+&lt;table border="0" class="borderless table docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="50%"/&gt;
 &lt;col width="50%"/&gt;

@@ -9,7 +9,7 @@
 :issueid: 79
 :series: chouyaku
 
-.. youtube:: JAMklwx_ZzM
+.. youtube:: lCQ7WuYXIHg
 
 
 .. |からくれなゐ| replace:: :html:`<span style="color:#D93448">からくれなゐ</span>`
@@ -359,9 +359,9 @@
 ----
 
 .. panel-default::
-    :title: `アンノウンX　～ Unfound Adventure （原曲） <https://www.youtube.com/watch?v=pApHyfpg26Y>`_
+    :title: `アンノウンX　～ Unfound Adventure （原曲） <https://www.youtube.com/watch?v=LdI7B_GtejY>`_
 
-    .. youtube:: pApHyfpg26Y
+    .. youtube:: LdI7B_GtejY
 
 《からくれなゐの影》，寫作漢字的話大概是「 :ruby:`唐紅|からくれない` の :ruby:`影|かげ` 」，
 其中「ゐ」是歷史假名用法（歴史的仮名遣い）中的一個假名，發音是ワ行イ段的「 wi 」，

@@ -8,7 +8,7 @@
 :tags: tsukimizakura, saigetsu, 月見桜, 砕月, Frontier Records, のりこ
 :issueid: 73
 
-.. youtube:: 0vxv0EPztu0
+.. youtube:: 5qxCDNa_6Os
 
 .. translate-paragraph::
 

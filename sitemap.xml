@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>//sak.uy/</loc>
-<lastmod>2020-03-23T04:13:58-00:00</lastmod>
+<lastmod>2024-06-28T00:09:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>//sak.uy/archives.html</loc>
-<lastmod>2020-03-23T04:13:58-00:00</lastmod>
+<lastmod>2024-06-28T00:09:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>//sak.uy/tags.html</loc>
-<lastmod>2020-03-23T04:13:58-00:00</lastmod>
+<lastmod>2024-06-28T00:09:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>//sak.uy/categories.html</loc>
-<lastmod>2020-03-23T04:13:58-00:00</lastmod>
+<lastmod>2024-06-28T00:09:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -256,7 +256,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>//sak.uy/tag/remiriasukaretsuto.html</loc>
+<loc>//sak.uy/tag/remiriasuka-retsuto.html</loc>
 <lastmod>2019-09-20T17:00:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -270,7 +270,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>//sak.uy/tag/hurandorusukaretsuto.html</loc>
+<loc>//sak.uy/tag/hurando-rusuka-retsuto.html</loc>
 <lastmod>2019-09-20T17:00:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -823,7 +823,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>//sak.uy/tag/abata.html</loc>
+<loc>//sak.uy/tag/abata-.html</loc>
 <lastmod>2019-01-05T04:05:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>

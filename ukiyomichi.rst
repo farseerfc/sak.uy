@@ -8,7 +8,7 @@
 :tags: ukiyomichi, saigetsu, 愛き夜道, 砕月, 伊吹萃香, たま, ランコ, 雨天決行, 魂音泉
 :issueid: 68
 
-.. youtube:: I2adXkpWleg
+.. youtube:: EtcwJTu-6L8
 
 .. |たま| replace:: :html:`<span class="label label-primary">たま</span>`
 .. |ランコ| replace:: :html:`<span class="label label-warning">ランコ</span>`

@@ -9,7 +9,7 @@
 :issueid: 70
 :series: chouyaku
 
-.. youtube:: SDmr8c72wes
+.. youtube:: 6zp4e_zq1Eo
 
 .. translate-paragraph::
 

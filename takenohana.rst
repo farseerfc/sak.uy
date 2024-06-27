@@ -8,7 +8,7 @@
 :tags: takenohana, 竹ノ花, 凋叶棕
 :issueid: 67
 
-.. youtube:: HV5YvpbyS6E
+.. youtube:: DRiAS-0YVl8
 
 
 .. translate-paragraph::

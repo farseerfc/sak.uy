@@ -8,7 +8,7 @@
 :tags: uso, doukoku, 凋叶棕, ランコ, 伊吹萃香
 :issueid: 87
 
-.. youtube:: _wz-Y8DA3qs
+.. youtube:: pLAL55TYgTs
 
 ----
 
@@ -268,9 +268,9 @@
 
 
 .. panel-default::
-    :title: 萃夢想 伊吹萃香 `御伽の国の鬼が島　～ Missing Power <https://www.youtube.com/watch?v=tZkfANW5Tr4>`_
+    :title: 萃夢想 伊吹萃香 `御伽の国の鬼が島　～ Missing Power <https://www.youtube.com/watch?v=Q4sQqdHYp-c>`_
 
-    .. youtube:: tZkfANW5Tr4
+    .. youtube:: Q4sQqdHYp-c
 
 又是一首極其催淚的歌……最近淚腺似乎有點壞掉了……
 
